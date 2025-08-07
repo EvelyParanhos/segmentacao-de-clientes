@@ -67,5 +67,5 @@ Com base nesses insights, foram elaboradas recomendações estratégicas para a 
 
 #### 🔗 Recursos Adicionais
 
-* [Link para a apresentação em slides](https://www.exemplo.com/apresentacao-projeto1)
-* [Link para o vídeo de apresentação](https://www.exemplo.com/video-projeto1)
+* [Link para a apresentação em slides](https://drive.google.com/file/d/15ZwA4dP7f1ktfFKFyB7rG-1GqcAakkO1/view?usp=drive_link)
+* [Link para o vídeo de apresentação](https://drive.google.com/file/d/1GCNB4sbNFCWE5_pqZWBus_4U4Xq5akUJ/view?usp=drive_link)
